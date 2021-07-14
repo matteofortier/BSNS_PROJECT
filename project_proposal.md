@@ -21,6 +21,7 @@ The "Steam Store Games" dataset includes 27000 rows of games sold on the Steam s
 
 - Excel will be used to perform exploratory data analysis and data visualisation
 - Kaggle will be used for data visualisations
+- Google Slides will be used for the pitch presentation
 
 **MVP Goal:**
 
