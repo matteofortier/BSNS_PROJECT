@@ -7,7 +7,7 @@
 
 **Impact Hypothesis:** By understanding what games are successful (average play time, current active players) in the steam store, Epic Games can more intentionally target specific games, or categories of games, to be distributed on their platform. 
 
-**Desired Business Impact:** More games that are succesful (average play time, current active players) are distributed by Epic Games, leading to a growth in the platform. The metric for growth in the platform could be an increase of 50% in the active monthly users of the platform. 50% seeing as Steam currently has double the monthly active users compared to Epic Games. Optimally, a selection of existing or upcoming games most likely to lead to growth, for Epic Games to distribute would be a goal of the project. 
+**Desired Business Impact:** More games that are succesful (average play time, current active players) are distributed by Epic Games, leading to a growth in the platform. The metric for growth in the platform could be an increase of 50% in the active monthly users of the platform. 50% seeing as Steam currently has double the monthly active users compared to Epic Games. Optimally, a selection of existing or upcoming games most likely to lead to growth, for Epic Games to distribute would be a goal of the project.
 
 **Data Description:**
 
