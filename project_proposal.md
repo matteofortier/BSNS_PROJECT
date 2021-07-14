@@ -7,7 +7,7 @@
 
 **Impact Hypothesis:** By understanding what games are successful (average play time, current active players) in the steam store, Epic Games can more intentionally target specific games, or categories of games, to be distributed on their platform. 
 
-**Desired Business Impact:** More games that are succesful (average play time, current active players) are distributed by Epic Games, leading to a growth in the platform.
+**Desired Business Impact:** More games that are succesful (average play time, current active players) are distributed by Epic Games, leading to a growth in the platform. The metric for growth in the platform could be an increase of 50% in the active monthly users of the platform. 50% seeing as Steam currently has double the monthly active users compared to Epic Games. Optimally, a selection of existing or upcoming games most likely to lead to growth, for Epic Games to distribute would be a goal of the project. 
 
 **Data Description:**
 
@@ -19,7 +19,9 @@ The "Steam Store Games" dataset includes 27000 rows of games sold on the Steam s
 
 **Tools**
 
-- 
+- Excel will be used to perform exploratory data analysis and data visualisation
+- Kaggle will be used for data visualisations
 
 **MVP Goal:**
 
+The MVP of this project would be a finalized version of the project proposal after initial data exploration has been conducted. The proposal will include project scoping and potentially a visualisation from EDA as rationale for the projectc. 
