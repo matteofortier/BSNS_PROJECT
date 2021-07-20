@@ -31,8 +31,9 @@ With the above data, the following analyses are possible:
 
 ### Impact Hypothesis
 
-By understanding what games are successful (average play time, current active players) in the steam store, Epic Games can more intentionally target specific games, or categories of games, to be distributed on their platform. 
-
-### Assumptions
+By understanding what games are successful (average hours played, current active players) in the Steam Store, Epic Games can more intentionally target specific games, or categories of games, to have as exclusives on their platform.
 
 ### Potential Pitfalls
+
+- The current growth rate of 75% cannot be maintained without the current spending on exclusives. 
+- Growth rate isn't only related to which exclusives exist on the platform, but also the usability of the platform. (Built-in chat, friends lists, user profile - All of which have been polished throughout years on the Steam platform)
