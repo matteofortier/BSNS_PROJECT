@@ -29,9 +29,17 @@ With the above data, the following analyses are possible:
 - Classification model to predict whether a game will be successful regarding platform engagement (hours played). Epic can secure exclusives for existing games that the model predicts to be successful in engagement. Alternatively, Epic can use the model to predict engagement for upcoming/unreleased games to assess whether it is worth securing as an exclusive for the platform. 
 - Unsupervised clustering to better understand the types of games that exist concerning their engagement. Epic can use such a model to ensure a wide variety of games that lead to successful engagement are available in their store, potentially allowing to secure active users from a larger pool of all gamers. 
 
+
+
+The below figures show how certain developers do have differences in average hours played.
+
 ![figure 1](</figure 1.png>)
 
 ![figure 2](</figure 2.png>)
+
+
+
+
 
 ### Impact Hypothesis
 
