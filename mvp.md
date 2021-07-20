@@ -37,7 +37,9 @@ The below figures show how certain developers do have differences in average hou
 
 ![figure 2](</figure 2.png>)
 
+The histogram below shows that a small subset of developers can be identified with successful engagement (average forver hours played)
 
+![figure 2](</figure 3.png>)
 
 
 
