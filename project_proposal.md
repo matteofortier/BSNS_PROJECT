@@ -15,6 +15,8 @@ The following dataset will be used:
 
 https://www.kaggle.com/nikdavis/steam-store-games
 
+
+
 The "Steam Store Games" dataset includes 27000 rows of games sold on the Steam store. Each game has 17 collumns of attributes associated with that game including, average play time, ratings, developers, publishers, categories and genres. 
 
 **Tools**

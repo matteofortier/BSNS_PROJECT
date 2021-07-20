@@ -22,7 +22,7 @@ Public data on Steam Store games are easily accessible via various APIs, namely 
 
 The data includes information on engagement statistics such as average and median hours played in the past two weeks/all time. The data also includes various categorical and numerical features such as developer, publisher, genres/tags, price, rating. 
 
-
+https://www.kaggle.com/nikdavis/steam-store-games
 
 With the above data, the following analyses are possible:
 
