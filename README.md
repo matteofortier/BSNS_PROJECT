@@ -2,5 +2,6 @@
 
 - [Project Proposal](<./project_proposal.md>)
 - [MVP](</mvp.md>)
-- Writeup
-- Slides
+- [Writeup](</writeup.md>)
+- [Slides](</business_presentation.pdf>)
+
